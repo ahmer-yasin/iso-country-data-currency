@@ -1,5 +1,5 @@
 ## Installation
-`npm install iso-country-currency`
+`npm install iso-country-data-currency`
 
 ## Usage
 Import package where you want and start using 
