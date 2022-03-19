@@ -1,0 +1,32 @@
+{
+  "name": "iso-country-data-currency",
+  "version": "0.0.1",
+  "description": "Get country name, currency and currency symbol via ISO2 country abbreviation",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ahmer-yasin/iso-country-data-currency.git"
+  },
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release": "release-it"
+  },
+  "devDependencies": {
+    "release-it": "^14.13.0"
+  },
+  "keywords": [
+    "country",
+    "currency",
+    "iso2"
+  ],
+  "contributors": [
+    "Rana Ahmer <ahmeryasin1992@gmail.com>"
+  ],
+  "bugs": {
+    "url": "https://github.com/ahmer-yasin/iso-country-data-currency/issues"
+  },
+  "homepage": "https://github.com/ahmer-yasin/iso-country-data-currency",
+  "author": "Rana Ahmer <ahmeryasin1992@gmail.com>",
+  "license": "ISC"
+}
