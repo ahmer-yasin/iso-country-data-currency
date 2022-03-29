@@ -1,6 +1,6 @@
 {
   "name": "iso-country-data-currency",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Get country name, currency and currency symbol via ISO2 country abbreviation",
   "repository": {
     "type": "git",
